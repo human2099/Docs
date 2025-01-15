@@ -1,4 +1,4 @@
-#### Introduction
+## Introduction
 
 ### Why "Human2099"?
 
@@ -8,7 +8,7 @@ Human2099 represents both anonymity and a futuristic vision. "Human" reflects my
 
 Electronic, Techno, House, Drum & Bass
 
-#### Business Plan
+## Business Plan
 
 ### Products
 
