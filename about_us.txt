@@ -1,1 +1,7 @@
-yyhhh
+Artist Name & Meaning
+
+Human2099
+	•	Human: Represents the unimportance of identity, emphasizing that the music speaks for itself and connects universally without focusing on the artist.
+	•	2099: Reflects a futuristic vision inspired by technology and engineering, integral to both the sound and visuals.
+
+The music is largely AI-generated, with chords and notes crafted through prompt engineering with large language models (LLMs). Visuals combine bitmap and AI-generated artwork, enhanced by complex image distortion techniques, resulting in a cutting-edge aesthetic that blends gothic and digital styles.
